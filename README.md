@@ -4,9 +4,9 @@
 
 <h2>Full Stack Developer From Vancouver,Canada</h2>
 
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **Html,Sass,React, JavaScript, Node, SQL.**
-- 📫 How to reach me: **itsjag07@gmail.com**
+- 🌱 I’m currently learning : **TypeScript**
+- 💬 Ask me about : **Html, Sass, React, JavaScript, Node, SQL.**
+- 📫 How to reach me : **itsjag07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
