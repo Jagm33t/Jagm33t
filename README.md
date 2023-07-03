@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jagm33t</h1>
 
-
+<h2>Full Stack Developer From Vancouver,Canada</h2>
 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Html,Sass,React, JavaScript, Node, SQL.**
