@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Jagm33t</h1>
 
-<h2>Full Stack Developer From Vancouver,Canada</h2>
+<h2>Full Stack Developer From Vancouver, Canada</h2>
 
-- 🌱 I’m currently learning : **TypeScript,MongoDb**
-- 💬 Ask me about : **Html, Sass, React, JavaScript, Node, SQL.**
+- 🌱 I’m currently learning : **TypeScript, MongoDB**
+- 💬 Ask me about : **HTML, Sass, React, JavaScript, Node, SQL**
 - 📫 How to reach me : **itsjag07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -89,5 +87,14 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="INSERT_MONGODB_ICON_URL_HERE" alt="mongodb" width="40" height="40"/>
   </a>
+  
+  <!-- Render.com Icon -->
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="INSERT_RENDER_ICON_URL_HERE" alt="render" width="40" height="40"/>
+  </a>
+  
+  <!-- Netlify.com Icon -->
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="INSERT_NETLIFY_ICON_URL_HERE" alt="netlify" width="40" height="40"/>
+  </a>
 </p>
-
