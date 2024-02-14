@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagm33t" alt="jagm33t" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, MongoDB**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **HTML, Sass, React, JavaScript, Node, SQL**
+- 💬 Ask me about **HTML, Sass, React, JavaScript, Node, MySQL, MongoDB**
 
 - 📫 How to reach me **itsjag07@gmail.com**
 
