@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagm33t" alt="jagm33t" /></a> </p>
 
-- 🌱 I’m currently learning **LangChain,kubernetes**
+- 🌱 I’m currently learning **LangChain,kubernetes,Python**
 
 - 💬 Ask me about **HTML, Sass, React, JavaScript, Node, MySQL, MongoDB**
 
