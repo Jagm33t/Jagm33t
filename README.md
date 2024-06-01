@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **itsjag07@gmail.com**
 
-- 📄 Know about my experiences (https://jagmeetsingh.netlify.app/))
+- 📄 Know about my experiences (https://jagmeetsingh.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
