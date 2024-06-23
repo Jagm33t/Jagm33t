@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagm33t</h1>
 
 
-- 🌱 I’m currently learning **LangChain,kubernetes,Python**
+- 🌱 I’m currently learning **Devops,Python**
 
 - 💬 Ask me about **HTML, Sass, React, JavaScript, Node, MySQL, MongoDB**
 
