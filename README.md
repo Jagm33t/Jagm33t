@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps,Python**
 
-- 💬 Ask me about **HTML, Sass, React, JavaScript, Node, MySQL, MongoDB**
+- 💬 Ask me about **Sass, React, JavaScript, Node, MySQL, MongoDB**
 
 - 📫 How to reach me **itsjag07@gmail.com**
 
