@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagm33t</h1>
 
-
-- 🌱 I’m currently learning **DevOps,Python**
-
 - 💬 Ask me about **Sass, React, JavaScript, Node, MySQL, MongoDB**
 
 - 📫 How to reach me **itsjag07@gmail.com**
