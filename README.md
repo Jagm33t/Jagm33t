@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagm33t</h1>
 
-- 💬 Ask me about **Sass, React, JavaScript, Node, MySQL, MongoDB**
+- 💬 Ask me about **,OpenAI, React, JavaScript, Node, MySQL, MongoDB**
 
 - 📫 How to reach me **itsjag07@gmail.com**
 
